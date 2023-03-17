@@ -1,0 +1,12 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+}
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+}
+.selected-image {
+  width: 80vw;
+}
